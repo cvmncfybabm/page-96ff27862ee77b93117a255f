@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "2a193c125a92fa6a4731c0be",
+  "owner": "cvmncfybabm",
+  "repo": "page-96ff27862ee77b93117a255f",
+  "title": "免费订阅clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "96ff27862ee77b93117a255f",
+      "a": "ARK",
+      "b": "免费订阅clash节点",
+      "entity": "ARK",
+      "brand": "免费订阅clash节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3aadc7ac2f6df0dc22130bb628cd0107578cc4be7adcea9011cfb4c0957965f1",
+      "content": {
+        "primary_entity": "ARK",
+        "keyword1": "ARK",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，Windows、macOS、Android、iOS 与路由器分别有适配方案，安装后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "在 ARK 选好适合设备数量的套餐，下载客户端并导入订阅，即可开始加速体验。",
+          "AI_CLOSING_TITLE": "选对套餐，配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付或年付均可选，年付价格约为月付的十倍，适合不同设备数量和流量需求的用户，客户端覆盖桌面与移动端。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与订阅周期三个角度，说明如何选择和配置 ARK。",
+          "AI_FEATURES_TITLE": "选择 ARK 的关键",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，旗舰版 300GB，团队版 1000GB，按日常使用量选择即可。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按同时在线设备数挑选。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更划算，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "看设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅导入，ARK 的使用流程清晰直接。",
+          "AI_GUIDE_TITLE": "三步开始使用 ARK",
+          "AI_HERO_INTRO": "ARK 是面向海外网络加速场景的订阅服务，提供基础版、旗舰版与团队版三档套餐，月付或年付均可选，覆盖 3 至 20 台设备，适合不同流量需求的用户。",
+          "AI_HERO_SUBTITLE": "多设备订阅，灵活选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付可选，年付更优惠",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与设备数，团队版面向多设备高流量场景，年付可省约两个月费用。",
+          "AI_PLANS_TITLE": "对比 ARK 套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版与团队版之间选择合适的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐对客户端版本和系统的适配要求，确认设备满足条件。",
+          "AI_STEP_TEXT_3": "下载对应客户端，按照客户端文档导入订阅配置，即可连接到 ARK 节点。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ARK 海外加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按年付分别 ¥150、¥350、¥850，日常使用旗舰版比较均衡。",
+          "AI_FAQ_ANSWER_2": "先确认常用设备数量和每月大概流量，再对比套餐的设备数与流量额度。旗舰版支持 5 台设备，适合手机加电脑同时在线。",
+          "AI_FAQ_ANSWER_3": "按年付只需要支付十个月的费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。适合长期稳定使用的场景。",
+          "AI_FAQ_ANSWER_4": "按设备选择客户端：桌面端和移动端分别有对应的客户端程序，具体适配情况以客户端文档说明为准，配置订阅后即可使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版提供优先或专属支持渠道，团队版还有专属客户经理。基础版可提交工单获取帮助。",
+          "AI_FAQ_INTRO": "套餐差异、订阅周期与设备适配。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何选择适合自己设备的套餐？",
+          "AI_FAQ_QUESTION_3": "按年付比按月付划算多少？",
+          "AI_FAQ_QUESTION_4": "订阅后怎么在设备上配置？",
+          "AI_FAQ_QUESTION_5": "支持哪些方式获取售后帮助？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f8c0145a9b195691dcfc1cc5de61eed1b075354ddace6c628c7ee50af4aec0f8",
+    "sitemap.xml": "f9a4e06e78d27d4d68af83f07df3177826a0c83615831f08e900c5e71aff3823",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "3880f401090a41e889a8821d8e89ca8be37d3883db8d02e9662c6278fd5de14d"
+}
